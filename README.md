@@ -1,4 +1,4 @@
-## Pictures Utils
+# Pictures Utils
 #### By I-No-oNe
 ---------------------------------------
 ## What is this project?
@@ -14,7 +14,7 @@ pip install Pillow
 - ***Paste the final result from the `output` folder.***
 ### IMPORTANT NOTE -> DON'T FORGET TO CHANGE THE FILE NAME TO `input.png`.
 -----------------------------
-# What are the different modes?
+## What are the different modes?
 ```yml
 # Mode 1 -> Change non-transparent pixels to white
 # Mode 2 -> Change non-transparent pixels to black
