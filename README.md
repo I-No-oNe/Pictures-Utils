@@ -11,7 +11,7 @@ pip install Pillow
 ```
 - ***Then put the image you want to change in the `input` folder.***
 - ***Run the `picturesUtils` file and choose the mode you need.***
-- ***Paste the final result from the `output` folder.***\
+- ***Paste the final result from the `output` folder.***
 ### IMPORTANT NOTE -> DON'T FORGET TO CHANGE THE FILE NAME TO `input.png`.
 -----------------------------
 # What are the different modes?
